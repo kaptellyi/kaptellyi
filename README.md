@@ -8,7 +8,6 @@ ___
 - 📘 I like learning new things as well as improving already learnt ones 
 - ✨ I’d love to take a part in an interesting project
 - 🌙 I prefer a dark theme
-- 💼 2021 Goals: finish a React/TS project and get a job
 - 🦩 I'm probably coding while you're reading it 
 - ⏏️ is it a flamingo lol?
 
