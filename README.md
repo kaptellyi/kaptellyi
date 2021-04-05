@@ -21,7 +21,6 @@ ___
 <h3 align="center">Contact with me:</h3>
 <p align="center">
 <a href="https://dev.to/ghostinthewire2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ghostinthewire2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12907859" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12907859" height="30" width="40" /></a>
 <a href="https://instagram.com/k1ndalost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="k1ndalost" height="30" width="40" /></a>
 <a href="https://medium.com/@h1kigaeru.404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@h1kigaeru.404" height="30" width="40" /></a>
 </p>
