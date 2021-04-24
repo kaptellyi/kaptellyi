@@ -3,7 +3,7 @@
 ___
 > “The Internet?  Is that thing still around?” - Homer Simpson
 ___
-## I'm a student who's excited about programming!!!
+## I'm a student devoted to programming :)
 
 - 📘 I like learning new things as well as improving already learnt ones 
 - ✨ I’d love to take a part in an interesting project
