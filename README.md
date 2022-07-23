@@ -3,10 +3,10 @@
 ___
 > “The Internet?  Is that thing still around?” - Homer Simpson
 ___
-## I'm a student devoted to programming :)
+## I'm a young software developer who's dedicated to the IT world :)
 
 - 📘 I like learning new things as well as improving already learnt ones 
-- ✨ I’d love to take a part in an interesting project
+- ✨ I'm investigated in unique project ideas
 - 🌙 I prefer a dark theme
 - 🦩 I'm probably coding while you're reading it 
 - ⏏️ why flamingo?
